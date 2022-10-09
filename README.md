@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi  👋
+
+
+
+![avatar](https://user-images.githubusercontent.com/64313624/194779830-0feae0ab-a5ba-4e46-952b-76c74ed429e5.jpg)
+
+
 
 <!--
 **toansola3/toansola3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

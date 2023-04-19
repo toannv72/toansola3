@@ -1,10 +1,9 @@
-### Hi  👋
+<a href="#" target="_blank">
+  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
+</a>
 
 
 [![Demonstration of using CI with jUnit & Apache ant | © 2023 by toan](https://github.com/toansola3/mathutil-ant-se16/actions/workflows/main.yml/badge.svg)](https://github.com/toansola3/mathutil-ant-se16/actions/workflows/main.yml)
-<a href="#" target="_blank">
-  <img src="svg/toansola3.svg" width="1200" alt="trungquandev-official" />
-</a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
